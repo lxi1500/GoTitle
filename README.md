@@ -8,7 +8,7 @@ Simple golang package to set a console title (stolen from some chinese github)
 
 package main
 
-import "github.com/lxi1400/GoTitle"
+import "github.com/lxi1500/GoTitle"
 
 func main() {
 	title.SetTitle("Hi") // Change hi with the text you would like to set the title to
